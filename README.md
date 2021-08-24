@@ -1,7 +1,7 @@
 ## Hey! Im Kaelen a kid just trying to learn how to code. 
 
 
-[![Myst](https://img.shields.io/badge/Myst-Scrims-red)](https://discord.gg/bjvMkPgj)
+[![Myst](https://img.shields.io/badge/Myst-Scrims-red)](https://discord.gg/tournaments)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:discordvinx@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/DiscordVinx)
 
