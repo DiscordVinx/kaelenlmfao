@@ -12,7 +12,7 @@
 
 ## 🙌 About Me
 
-Hi, my name is Kaelen, AKA - Vinx. I am new to coding. I am trying to learn Py and Js. I started off when I started being around more and more coders. And I found it intresting. I am from Canada. I play Hockey and drink maple syrup. "Ofc we do" I will be releasing a bot soon named **Vax** It will be a multi function bot, that "
+Hi, my name is Kaelen, AKA - Vinx. I am new to coding. I am trying to learn Py and Js. I started off when I started being around more and more coders. And I found it intresting. I am from Canada. I play Hockey and drink maple syrup. "Ofc we do" I will be releasing a bot soon named **Vandetta** It will be a multi function bot, that "
 I had a lot of help on." Well this is really all I have to say today so thanks! DM me if you need any help.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiscordVinx&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/DiscordVinx)
